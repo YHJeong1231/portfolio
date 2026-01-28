@@ -1,4 +1,4 @@
-# Papers
+# 📑 Papers
 
 This repository contains my academic research portfolio, with a primary focus on PMSM systems and observer-based control developed during my master's studies.
 
