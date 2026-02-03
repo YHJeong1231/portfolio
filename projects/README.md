@@ -4,6 +4,8 @@ This directory contains engineering and research projects completed during my gr
 
 The projects emphasize independent system modeling, algorithm development, and rigorous performance evaluation for practical motor-control applications.
 
+**PDF:** [Download](pmsm_compressor_estimation.pdf)
+
 ---
 
 ## 🎯 Project Focus
