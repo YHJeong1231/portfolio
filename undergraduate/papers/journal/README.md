@@ -1,8 +1,8 @@
-# 📄 Undergraduate Journal Paper – LMI-Based Control and Observer Design for LPV Systems
+# 📄 Undergraduate Journal Paper – Event-Triggered LMI-Based Control and Observer Design for LPV Systems
 
-This folder contains a journal paper written during my undergraduate studies, focusing on **continuous-time Linear Parameter-Varying (LPV) systems** and the design of both **controllers and observers using Linear Matrix Inequalities (LMIs)**.
+This folder contains a journal paper written during my undergraduate studies, focusing on **continuous-time Linear Parameter-Varying (LPV) systems** and the design of both **controllers and observers using Linear Matrix Inequalities (LMIs)** under an **event-triggered control framework**.
 
-This work represents my early research training in fundamental control theory, convex optimization, and validation-driven design, forming a strong technical foundation for my later PMSM-focused graduate research.
+This work represents my early research training in fundamental control theory, convex optimization, and validation-driven design, forming a strong technical foundation for my later graduate-level PMSM research.
 
 ---
 
@@ -12,20 +12,21 @@ This work represents my early research training in fundamental control theory, c
 
 This paper presents:
 
-- Control law design for continuous-time LPV systems  
-- Observer synthesis for state estimation  
+- Control law synthesis for continuous-time LPV systems  
+- Observer design for state estimation  
 - LMI-based optimal gain computation  
-- Performance-oriented controller tuning  
-- Stability-guaranteed design framework  
+- Event-triggered transmission mechanisms to reduce communication load  
+- Stability-guaranteed closed-loop design framework  
 
 ---
 
 ## 🧪 Validation and Evaluation
 
-All proposed designs were rigorously validated through:
+All proposed methods were rigorously validated through:
 
 - Time-domain simulations of LPV plant models  
-- Parameter variation scenarios  
+- Scheduling-parameter variation scenarios  
+- Event-triggering performance analysis  
 - Closed-loop stability verification  
 - Quantitative performance comparisons  
 - Observer estimation accuracy evaluation  
@@ -36,10 +37,11 @@ All proposed designs were rigorously validated through:
 
 - Linear Parameter-Varying (LPV) Systems  
 - Continuous-Time Control  
+- Event-Triggered Systems  
 - Observer Design  
 - Linear Matrix Inequalities (LMIs)  
 - Convex Optimization  
-- Stability Analysis  
+- Lyapunov Stability Analysis  
 - Simulation-Based Validation  
 
 ---
@@ -48,12 +50,12 @@ All proposed designs were rigorously validated through:
 
 This undergraduate journal publication highlights my early mastery of:
 
-- LPV system modeling and analysis  
-- LMI-based controller and observer synthesis  
-- Lyapunov stability theory  
-- Rigorous simulation-based verification  
-- Control-oriented mathematical formulation  
+- LPV system modeling and control synthesis  
+- LMI-based controller and observer design  
+- Event-triggered control for resource-efficient implementation  
+- Rigorous Lyapunov-based stability proofs  
+- Simulation-driven verification methodologies  
 
 ---
 
-> **Undergraduate research demonstrating strong fundamentals in LPV control and LMI-based observer design with thorough simulation validation.**
+> **Undergraduate journal research demonstrating strong fundamentals in LPV control and event-triggered LMI-based observer design with thorough simulation validation.**
